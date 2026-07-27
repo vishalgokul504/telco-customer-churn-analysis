@@ -305,6 +305,8 @@ The project demonstrates how data analytics and machine learning can be combined
 ## Author
 
 *K Vishal Gokul Bhora
+
+
 *Arjun Ramprasad
 
 ## 🤝 Contributing
